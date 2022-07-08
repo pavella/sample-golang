@@ -1,4 +1,4 @@
-module github.com/digitalocean/sample-golang
+module github.com/pavella/sample-golang
 
 go 1.13
 
