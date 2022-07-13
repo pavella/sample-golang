@@ -1,1 +1,1 @@
-web: bin/cmd/api/sample-golang
+web: bin/sample-golang
